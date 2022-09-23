@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://images/crusader_idle_10013.png" type="Texture" id=1]
+
+[node name="Knight" type="Sprite"]
+texture = ExtResource( 1 )
